@@ -27,10 +27,33 @@ caption{
 #ingredient{
   border:2px solid lightcoral;
 border-collapse:collapse;
-  
+
 }
 
 
+th{
+   border:1px solid lightcoral;
+   background-color:mistyrose;/*背景色*/
+  padding:5px;
+  /*余白*/
+  width:100px;
+  text-align:right;
+   
+   
+   
+}
+
+td{
+   border:1px solid lightcoral;
+   
+  padding:5px;
+  /*余白*/
+  width:80px;
+  text-align:right;
+   
+   
+   
+}
 
 
 }
