@@ -24,7 +24,16 @@ caption{
   padding:5px;
   /*余白*/
 }
+#ingredient{
+  border:2px solid lightcoral;
+border-collapse:collapse;
+  
+}
 
+
+
+
+}
 #price{
   background-color:lightyellow;/*背景色*/
 }
