@@ -5,7 +5,9 @@
   border:none;
   font-size:50px;
 }
-
+.btn:hover{/*マウス乗ったとき*/
+opacity:0.7;
+}
 body{
 background-color:#D0E0C0;
 }
