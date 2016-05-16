@@ -1,7 +1,7 @@
 @charset "utf-8";
 .btn{
-  
-  border:none;
+  -webkit-appearance:none;
+
   font-size:16px;
 }
 body{
