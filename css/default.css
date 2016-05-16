@@ -3,3 +3,11 @@
 body{
 background-color:#D0E0C0;
 }
+
+.btn-submit{/*OKボタン*/
+background-color:silver;
+}
+
+.btn-reset{/*リセットボタン*/
+background-color: lightcoral;
+}
